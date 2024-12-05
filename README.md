@@ -100,4 +100,4 @@ self.table.insert(
 
 ## Conclusión
 
-Este proyecto utiliza una estructura sencilla para implementar un balanceo de carga de tareas utilizando reglas de precedencia y un ciclo de tiempo fijo. A trravés de la interfaz gráfica, el usuario puede ver en tiempo real cómo se asignan las tareas a las estaciones, optimizando el uso del tiempo disponible.
+Este proyecto utiliza una estructura sencilla para implementar un balanceo de carga de tareas utilizando reglas de precedencia y un ciclo de tiempo fijo. A través de la interfaz gráfica, el usuario puede ver en tiempo real cómo se asignan las tareas a las estaciones, optimizando el uso del tiempo disponible.
